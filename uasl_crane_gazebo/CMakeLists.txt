@@ -11,7 +11,7 @@ find_package(catkin REQUIRED COMPONENTS
   gazebo_plugins
   gazebo_ros
   gazebo_ros_control
-  testbot_description
+  uasl_crane_description
   uasl_crane_control
   xacro
 )
