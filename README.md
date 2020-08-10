@@ -13,7 +13,7 @@ Installation Instructions - Ubuntu 16.04 with ROS Kinetic
   $ cd ..
   $ rosdep install --from-paths src --ignore-src --rosdistro=${ROS_DISTRO} -y
   $ catkin build
-  $ echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
+  $ echo "source ~/catkin_ws/UASL_crane_ws/devel/setup.bash" >> ~/.bashrc
   $ source ~/.bashrc
   ```
 
